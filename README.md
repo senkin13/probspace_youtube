@@ -1,3 +1,3 @@
-# probspace_youtube
+# probspace_youtube 1st place
 
 ※コードにはファイル名に項番を降ってありますので項番順(同一項番は順不同)に動作させる必要があります。全コードを動作させると、(CPU: 32コア/GPU: RTX2080Ti x 1)で延べ12〜13時間程度を要します。
